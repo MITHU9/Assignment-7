@@ -1,0 +1,154 @@
+{
+  "players": [
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://e0.365dm.com/23/11/1600x900/skysports-virat-kohli-odi-cricket_6363815.jpg?20231117145059",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 250000
+    },
+    {
+      "playerId": 2,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://api.bdcrictime.com/kane-williamson-07_04_2022.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 220000
+    },
+    {
+      "playerId": 3,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1718029335939_JaspritBumrahCareer.jpg?im=Resize=(650,450)",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 300000
+    },
+    {
+      "playerId": 4,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article31121758.ece/ALTERNATES/n615/0_GettyImages-1713048001.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Legbreak",
+      "biddingPrice": 240000
+    },
+    {
+      "playerId": 5,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://crictoday.com/wp-content/uploads/2023/03/Untitled-design-12.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 350000
+    },
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1707837858139_davididiwww.jpeg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 280000
+    },
+    {
+      "playerId": 7,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.dawn.com/primary/2024/06/26184210181bb48.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Legbreak googly",
+      "biddingPrice": 180000
+    },
+    {
+      "playerId": 8,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2019%2F03%2F10%2F7a4e62d903a9b19836a59efbf902e959-De-cock.jpg?rect=0%2C0%2C3399%2C2266&auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=480",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 260000
+    },
+    {
+      "playerId": 9,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://icdn.guerillacricket.com/wp-content/uploads/2024/06/DSC4402.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 200000
+    },
+    {
+      "playerId": 10,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2020-10/qN9B8BwBlF.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 320000
+    },
+    {
+      "playerId": 11,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/shakib180601.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Slow left-arm orthodox",
+      "biddingPrice": 240000
+    },
+    {
+      "playerId": 12,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://crictoday.com/wp-content/uploads/2023/04/Untitled-design.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 290000
+    },
+    {
+      "playerId": 13,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://api.bdcrictime.com/mitchell-starc-biography-21_06_2024.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 330000
+    },
+    {
+      "playerId": 14,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://static.independent.co.uk/2022/11/12/07/4a655b514a0538cc8b0bb6e7b1cabefeY29udGVudHNlYXJjaGFwaSwxNjY4MzE5MTg5-2.69703789.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 27000
+    },
+    {
+      "playerId": 15,
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "image": "https://image-prod.iol.co.za/16x9/800/Kagiso-Rabada-helped-thrust-the-Proteas-to-a-seven-wicket-victory-over-Bangladesh-on-Thursday?source=https://iol-prod.appspot.com/image/f7fe75b9766e3efb2c2206618c1cb5929a2892f8/1333&operation=CROP&offset=0x0&resize=1333x750",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 25000
+    }
+  ]
+}
